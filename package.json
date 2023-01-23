@@ -27,7 +27,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "@octokit/action": "^3.18.0",
+    "@octokit/action": "^5.0.2",
     "lodash": "^4.17.21",
     "node-notifier": "^10.0.1"
   },
